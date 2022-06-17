@@ -2,4 +2,4 @@
 Desafio do bootcamp Dio - Impulse
 
 ## Links uteis
-[Sintaxe básica do Markdown] (https://markdown.net.br/sintaxe-basica/)
+[Sintaxe básica do Markdown](https://markdown.net.br/sintaxe-basica/)
