@@ -1,0 +1,19 @@
+To send emails using Gmail server enter these details:
+
+SMTP Host: smtp.gmail.com
+SMTP Port: 587
+SSL Protocol: OFF
+TLS Protocol: ON
+SMTP Username: (your Gmail username)
+SMTP Password: (your Gmail password or you may need to use a Google App Password instead)
+------------------
+To fetch mail from the Gmail server enter these details:
+
+POP3 Host: pop.gmail.com
+POP3 Port: 995
+TLS Protocol: ON
+POP3 Username: (your Gmail username)
+POP3 Password: (your Gmail password)
+------------------------
+Porta padrão do MySQL: 3306
+Porta padrão do Apache: 80
